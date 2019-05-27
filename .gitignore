@@ -1,0 +1,7 @@
+.idea
+.vscode
+**/.classpath
+**/.settings
+**/.project
+.mypy_cache
+*.iml

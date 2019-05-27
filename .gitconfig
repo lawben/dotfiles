@@ -1,0 +1,11 @@
+[user]
+  email = github@lawben.com
+  name = Lawrence
+[push]
+  default = simple
+[core]
+  excludesfile = ~/.gitignore
+[branch]
+  autosetuprebase = always
+[rebase]
+  autostash = true
