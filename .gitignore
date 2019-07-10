@@ -5,3 +5,4 @@
 **/.project
 .mypy_cache
 *.iml
+out/
