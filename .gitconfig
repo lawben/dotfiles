@@ -9,3 +9,5 @@
   autosetuprebase = always
 [rebase]
   autostash = true
+[pull]
+	rebase = true
