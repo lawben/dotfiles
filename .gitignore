@@ -6,3 +6,4 @@
 .mypy_cache
 *.iml
 out/
+*.DS_Store
